@@ -10,7 +10,7 @@
 
 **데이터 활용**<br>
 * 한국소비자원_생필품 가격 정보:
-https://www.data.go.kr/data/15083256/fileData.do](https://www.data.go.kr/data/15083256/fileData.do
+https://www.data.go.kr/data/15083256/fileData.do
 <p></p>
 
 * UI 스토리보드: https://docs.google.com/presentation/d/1TPoAyAR9fTNeU3A5fVU7dkYxcz-bnWTesm3K-EKWIlg/edit#slide=id.p 
